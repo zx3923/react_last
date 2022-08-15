@@ -1,0 +1,11 @@
+
+.yeom_bar {
+    text-align: center;
+    cursor: pointer;
+}
+
+.yeom_menu_box > li {
+    display: inline-block;
+    padding: 20px 80px;
+    font-size: 1.5rem;
+}
